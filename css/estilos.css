@@ -7,7 +7,7 @@ html, body{
 }
 
 header{
-    background-image: url(/img/castelo.jpg);
+    background-image: url(assets/castelo.jpg);
     background-size: cover;
     background-position: top center;
     height: 100%;
